@@ -1,4 +1,4 @@
-# VeighNa框架的Websocket API客户端
+# Websocket API Client for VeighNa Framework
 
 <p align="center">
   <img src ="https://vnpy.oss-cn-shanghai.aliyuncs.com/vnpy-logo.png"/>
@@ -11,22 +11,22 @@
     <img src ="https://img.shields.io/github/license/vnpy/vnpy.svg?color=orange"/>
 </p>
 
-## 说明
+## Description
 
-基于asyncio和aiohttp开发的协程异步Websocket API客户端，用于开发高性能的Websocket交易接口。
+Concurrent asynchronous Websocket API client based on asyncio and aiohttp for developing high performance Websocket transaction interface.
 
-## 安装
+## Installation
 
-安装环境推荐基于3.4.0版本以上的【[**VeighNa Studio**](https://www.vnpy.com)】。
+The recommended installation environment is based on [[**VeighNa Studio**](https://edarchimbaud.com/veighna-website)] above version 3.4.0.
 
-直接使用pip命令：
+Use pip command directly:
 
-```
+```bash
 pip install vnpy_websocket
 ```
 
-下载解压后在cmd中运行
+Download and unzip it and run it in cmd
 
-```
+```bash
 pip install .
 ```
