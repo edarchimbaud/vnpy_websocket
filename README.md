@@ -17,7 +17,7 @@ Concurrent asynchronous Websocket API client based on asyncio and aiohttp for de
 
 ## Installation
 
-The recommended installation environment is based on [[**VeighNa Studio**](https://edarchimbaud.com/veighna-website)] above version 3.4.0.
+The recommended installation environment is based on [[**VeighNa Studio**](https://github.com/paperswithbacktest/vnpy)] above version 3.4.0.
 
 Use pip command directly:
 
